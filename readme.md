@@ -16,5 +16,5 @@
 
 |              |               Project Name                    |  Date    |
 |:------------:|:---------------------------------------------:|:--------:|
-|channel_video_list|[채널별 동영상 리스트 정리하기](./channel_video_list)            |2021-11-24|Image Classification, CNN|
-|all_video_list|[계정의 모든 동영상 리스트 정리하기](./all_video_list)           |2021-11-26|
+|channel_video_list|[채널별 동영상 리스트 정리하기](./channel_video_list.ipynb)            |2021-11-24|Image Classification, CNN|
+|all_video_list|[계정의 모든 동영상 리스트 정리하기](./all_video_list.ipynb)           |2021-11-26|
